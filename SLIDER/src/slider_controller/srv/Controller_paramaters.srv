@@ -1,0 +1,14 @@
+float64 R_Kp_com 
+float64 R_Kd_com 
+float64 R_Kp_left 
+float64 R_Kd_left 
+float64 R_Kp_right 
+float64 R_Kd_right 
+float64 R_Kp_foot_ori 
+float64 R_Kd_foot_ori 
+float64 R_Kp_ang 
+float64 R_Kd_ang 
+float64 R_Kp_orientation 
+float64 R_Kd_orientation 
+----
+bool success

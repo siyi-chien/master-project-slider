@@ -1,0 +1,23 @@
+k_eps_walking: 8.5
+k_ang: -2
+
+Kp_foot_ori: -15
+Kd_foot_ori: -1
+Kp_orientation: -20
+Kd_orientation: -5
+    
+Kp_left: -200
+Kd_left: -10
+Kp_right: -200
+Kd_right: -10
+
+weight:  [1, 1, 1,
+          0, 0, 0,
+          1, 1, 1,
+          0.5, 0.5, 0.5,
+          1, 1, 1, 
+          0.5, 0.5, 0.5,
+          1, 1, 1]
+
+initial_sway_time: 1
+step_time: 0.7

@@ -1,0 +1,30 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/siyi/SLIDER/devel/include/**",
+        "/home/siyi/catkin_ws/devel/include/**",
+        "/opt/openrobots/include/**",
+        "/opt/openrobots/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/siyi/catkin_ws/src/ROS-Academy-for-Beginners/dependlib/hector_slam/hector_geotiff/include/**",
+        "/home/siyi/catkin_ws/src/ROS-Academy-for-Beginners/dependlib/hector_slam/hector_map_tools/include/**",
+        "/home/siyi/catkin_ws/src/ROS-Academy-for-Beginners/dependlib/hector_slam/hector_mapping/include/**",
+        "/home/siyi/catkin_ws/src/ROS-Academy-for-Beginners/dependlib/hector_slam/hector_marker_drawing/include/**",
+        "/home/siyi/catkin_ws/src/ROS-Academy-for-Beginners/dependlib/openslam_gmapping/include/**",
+        "/usr/include/**",
+        "/usr/local/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

@@ -1,0 +1,20 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/opt/openrobots/lib/python3.10/site-packages",
+        "/home/siyi/SLIDER/devel/lib/python2.7/dist-packages",
+        "/home/siyi/catkin_ws/devel/lib/python2.7/dist-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages",
+        "/usr/local/lib/python2.7/dist-packages",
+        "/home/siyi/SLIDER/devel/include",
+        "usr/include/*"
+    ],
+    "python.analysis.extraPaths": [
+        "/opt/openrobots/lib/python3.10/site-packages",
+        "/home/siyi/SLIDER/devel/lib/python2.7/dist-packages",
+        "/home/siyi/catkin_ws/devel/lib/python2.7/dist-packages",
+        "/opt/ros/melodic/lib/python2.7/dist-packages",
+        "/usr/local/lib/python2.7/dist-packages",
+        "/home/siyi/SLIDER/devel/include",
+        "usr/include/*"
+    ]
+}

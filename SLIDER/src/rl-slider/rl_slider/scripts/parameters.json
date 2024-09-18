@@ -1,0 +1,15 @@
+{ 
+	"epochs": 5000,
+    "steps": 1,
+    "updateTargetNetwork": 10000,
+    "explorationRate": 0.8,
+    "minibatch_size": 32,
+    "learnStart": 32,
+    "learningRate": 0.00025,
+    "discountFactor": 0.98,
+    "memorySize": 1000000,
+    "network_inputs": 4,
+    "network_outputs": 625,
+    "network_structure": [32,128,256,512],
+    "current_epoch": 0
+}
